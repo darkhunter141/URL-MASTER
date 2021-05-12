@@ -9,10 +9,10 @@
  pkg install python2
 ```
 ```
- git clone 
+ git clone https://github.com/darkhunter141/URL-MASTER
 ```
 ```
- cd 
+ cd URL-MASTER
 ```
 ```
  python2 main.py
@@ -20,12 +20,12 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone  && cd  && python2 main.py
+pkg install python2 && git clone https://github.com/darkhunter141/URL-MASTER && cd URL-MASTER && python2 main.py
 ```
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/darkhunter141/URL-MASTER/main/IMG_20210512_225051.jpg">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
